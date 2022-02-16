@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Outline of topics covered in class.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-024-applied-economics-for-managers-summer-2004/1947e10c369d4f39bf2e399e83f2efc0_lec19.pdf
+file: /media/courses/15-024-applied-economics-for-managers-summer-2004/1947e10c369d4f39bf2e399e83f2efc0_lec19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec19.pdf
 uid: 1947e10c-369d-4f39-bf2e-399e83f2efc0

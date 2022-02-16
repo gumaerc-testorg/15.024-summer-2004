@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Recitation session 2 notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-024-applied-economics-for-managers-summer-2004/a71031938b1a57c14088fabbdfed30fb_rec2.pdf
+file: /media/courses/15-024-applied-economics-for-managers-summer-2004/a71031938b1a57c14088fabbdfed30fb_rec2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec2.pdf
 uid: a7103193-8b1a-57c1-4088-fabbdfed30fb

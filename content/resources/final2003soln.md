@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Final exam problems and their solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-024-applied-economics-for-managers-summer-2004/610c5aac2c8f0ffa8464853b0ba6c9e6_final2003soln.pdf
+file: /media/courses/15-024-applied-economics-for-managers-summer-2004/610c5aac2c8f0ffa8464853b0ba6c9e6_final2003soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: final2003soln.pdf
 uid: 610c5aac-2c8f-0ffa-8464-853b0ba6c9e6
