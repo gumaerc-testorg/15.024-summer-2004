@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: dbc416ba-99fe-61a3-94f7-4318d84dced7
 resourcetype: Document
 title: moral.pdf
 uid: 72f5786b-f443-b937-65cf-e86634825d65
