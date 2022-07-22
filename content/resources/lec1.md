@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Introduction and outline of topics to be covered in the course.
-file: /media/courses/15-024-applied-economics-for-managers-summer-2004/a52d47547471a0965d1963e03015ff35_lec1.pdf
+file: /courses/15-024-applied-economics-for-managers-summer-2004/a52d47547471a0965d1963e03015ff35_lec1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: lec1.pdf
 uid: a52d4754-7471-a096-5d19-63e03015ff35
 ---
+Introduction and outline of topics to be covered in the course.
