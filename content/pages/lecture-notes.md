@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ LECTURE NOTES
 Choice, Efficiency, and the Basic Demand and Supply Model
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1))
+({{% resource_link a52d4754-7471-a096-5d19-63e03015ff35 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Choice, Efficiency, and the Basic Demand and Supply Model
 Choice, Efficiency, and the Basic Demand and Supply Model (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec2))
+({{% resource_link b451ab00-f8bc-c255-239d-df6e05c3c395 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ Behind Demand and Supply Curves
 Consumer and Producer Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{% resource_link 4e336201-2c47-3cdb-2445-bc69ddf97591 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +72,7 @@ Behind Demand and Supply Curves (cont.)
 Consumer and Producer Theory (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{% resource_link 30d4942d-4da8-92ae-bd64-c5bbed666f41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Behind Demand and Supply Curves (cont.)
 Consumer and Producer Theory (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link 72142ef0-173e-9628-81b0-e7f78cbe3409 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Consumer and Producer Theory (cont.)
 Monopoly, Imperfect Competition, Pricing Tactics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{% resource_link 82c82478-0fd8-38fd-83d6-a01d40e1bd81 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Monopoly, Imperfect Competition, Pricing Tactics
 Monopoly, Imperfect Competition, Pricing Tactics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{% resource_link 2ee24d06-91fe-77ed-9b48-5f5097277402 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +122,7 @@ Monopoly, Imperfect Competition, Pricing Tactics (cont.)
 Monopoly, Imperfect Competition, Pricing Tactics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))
+({{% resource_link 62bf3ff6-1740-6cf7-d5aa-d760588131ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Monopoly, Imperfect Competition, Pricing Tactics (cont.)
 Monopolistic Competition and Oligopoly, Elements of Strategy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec9))
+({{% resource_link 15e23942-c167-0d95-eb61-07df1fa782b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ Monopolistic Competition and Oligopoly, Elements of Strategy
 Monopolistic Competition and Oligopoly, Elements of Strategy (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{% resource_link 0386fffd-71e3-60dd-a606-b76fd42f20b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Monopolistic Competition and Oligopoly, Elements of Strategy (cont.)
 Monopolistic Competition and Oligopoly, Elements of Strategy (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11))
+({{% resource_link b8174d21-b7af-6d9d-794b-1e0536fe44ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Monopolistic Competition and Oligopoly, Elements of Strategy (cont.)
 Externalities and Public Goods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12))
+({{% resource_link 54b200a2-6392-fac3-31e7-d8a78dad87a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +182,7 @@ Externalities and Public Goods
 Externalities and Public Goods (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13))
+({{% resource_link 9f346f69-ffda-ddfd-a493-4473546ee79c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +194,7 @@ Externalities and Public Goods (cont.)
 Uncertainty and Information
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link 5a914459-d246-ce90-64c4-4c7c699800f9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Uncertainty and Information
 Uncertainty and Information (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link d076405b-d244-19a4-d1d9-5f018d24d55b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +218,7 @@ Uncertainty and Information (cont.)
 Uncertainty and Information (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16))
+({{% resource_link 7e44d64a-b89e-bf8f-1be3-9446923b6f11 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ Uncertainty and Information (cont.)
 Market Lessons and Organizational Architecture, Group Decision Making
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17))
+({{% resource_link 276b782f-04d8-87ab-f028-497337d95c0e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +242,7 @@ Market Lessons and Organizational Architecture, Group Decision Making
 Market Lessons and Organizational Architecture, Group Decision Making (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec18))
+({{% resource_link 0548cda1-614c-4253-1641-f9741374471a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +254,7 @@ Market Lessons and Organizational Architecture, Group Decision Making (cont.)
 International Trade Issues
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19))
+({{% resource_link 1947e10c-369d-4f39-bf2e-399e83f2efc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +266,7 @@ International Trade Issues
 Equity and Income Distribution
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec20))
+({{% resource_link 5762342a-dc28-7397-795b-db822e22c3c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
