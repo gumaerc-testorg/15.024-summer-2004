@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ ASSIGNMENTS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ({{% resource_link 0a2c4b64-a317-a869-369e-64c07ccf251c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
+Problem Set 2 ({{% resource_link 2f94b304-11e5-44d9-ca61-3795aeae7aba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
