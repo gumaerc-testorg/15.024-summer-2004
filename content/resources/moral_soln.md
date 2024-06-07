@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to recitation problems.
 file: /courses/15-024-applied-economics-for-managers-summer-2004/d7136c64c6ccc4b88e2b1e3066879a3f_moral_soln.pdf
+file_size: 20532
 file_type: application/pdf
 learning_resource_types:
 - Recitations

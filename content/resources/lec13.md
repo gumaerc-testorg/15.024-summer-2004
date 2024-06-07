@@ -2,6 +2,7 @@
 content_type: resource
 description: Outline of topics covered in class.
 file: /courses/15-024-applied-economics-for-managers-summer-2004/9f346f69ffdaddfda4934473546ee79c_lec13.pdf
+file_size: 47385
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
