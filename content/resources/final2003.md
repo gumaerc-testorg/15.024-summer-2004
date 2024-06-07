@@ -2,6 +2,7 @@
 content_type: resource
 description: Final exam problems.
 file: /courses/15-024-applied-economics-for-managers-summer-2004/16fceff3077e4a4be0b19ae55903d359_final2003.pdf
+file_size: 20060
 file_type: application/pdf
 learning_resource_types:
 - Exams

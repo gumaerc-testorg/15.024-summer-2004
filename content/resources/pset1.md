@@ -3,6 +3,7 @@ content_type: resource
 description: This assignment combines quantitative examples with qualitative word
   problems.
 file: /courses/15-024-applied-economics-for-managers-summer-2004/0a2c4b64a317a869369e64c07ccf251c_pset1.pdf
+file_size: 136778
 file_type: application/pdf
 learning_resource_types:
 - Assignments
