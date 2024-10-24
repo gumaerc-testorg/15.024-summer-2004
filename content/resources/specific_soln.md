@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to recitation problems.
-file: /courses/15-024-applied-economics-for-managers-summer-2004/d06b5d39c074abbd216c050a6f62791a_specific_soln.pdf
+file: /ol-ocw-studio-app/courses/15-024-applied-economics-for-managers-summer-2004/d06b5d39c074abbd216c050a6f62791a_specific_soln.pdf
 file_size: 34053
 file_type: application/pdf
 learning_resource_types:
