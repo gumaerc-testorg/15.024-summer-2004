@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in class.
-file: /ol-ocw-studio-app/courses/15-024-applied-economics-for-managers-summer-2004/30d4942d4da892aebd64c5bbed666f41_lec4.pdf
+file: /courses/15-024-applied-economics-for-managers-summer-2004/30d4942d4da892aebd64c5bbed666f41_lec4.pdf
 file_size: 58010
 file_type: application/pdf
 learning_resource_types:
