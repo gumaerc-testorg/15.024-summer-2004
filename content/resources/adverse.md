@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation problems.
-file: /ol-ocw-studio-app/courses/15-024-applied-economics-for-managers-summer-2004/c8e4a40bc8bf778b3222e1517f7f976e_adverse.pdf
+file: /courses/15-024-applied-economics-for-managers-summer-2004/c8e4a40bc8bf778b3222e1517f7f976e_adverse.pdf
 file_size: 17975
 file_type: application/pdf
 learning_resource_types:
