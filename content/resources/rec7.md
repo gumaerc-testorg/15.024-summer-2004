@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation session 7 notes.
-file: /courses/15-024-applied-economics-for-managers-summer-2004/9004fe0c1593265f251ec703d3131b6e_rec7.pdf
+file: /ol-ocw-studio-app/courses/15-024-applied-economics-for-managers-summer-2004/9004fe0c1593265f251ec703d3131b6e_rec7.pdf
 file_size: 114213
 file_type: application/pdf
 learning_resource_types:
